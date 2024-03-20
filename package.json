@@ -12,6 +12,7 @@
   "dependencies": {
     "@dotlottie/dotlottie-js": "^0.7.1",
     "@dotlottie/react-player": "^1.6.18",
+    "@rive-app/react-canvas": "^4.8.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
